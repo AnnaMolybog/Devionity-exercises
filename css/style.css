@@ -13,3 +13,12 @@ a {
 a:hover {
     color: #003300;
 }
+.bold {
+    font-weight: 900;
+}
+.italic {
+    font-style:italic;
+}
+.underlined {
+    text-decoration: underline;
+}
