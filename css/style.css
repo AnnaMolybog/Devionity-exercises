@@ -1,9 +1,9 @@
 * {
-    font-family: "Tahoma", serif;
+    font-family: "Calibri", serif;
 }
 a {
     color: #0074A2;
 }
 .bar {
-    border-color: red;
+    border: medium solid red;
 }
