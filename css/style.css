@@ -7,3 +7,9 @@ a {
 .bar {
     border: medium solid red;
 }
+.bar b {
+    color: #FF3399;
+}
+a:hover {
+    color: #003300;
+}
